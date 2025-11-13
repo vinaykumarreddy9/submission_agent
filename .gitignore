@@ -8,3 +8,4 @@ venv
 # python files
 __pycache__
 .langgraph_api
+submission_agent.egg-info
