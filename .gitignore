@@ -1,0 +1,10 @@
+# Environment variables
+.env
+
+# virtual Environment
+venv
+.venv
+
+# python files
+__pycache__
+.langgraph_api

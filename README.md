@@ -1,0 +1,9 @@
+submission_agent/
+    pyproject.toml
+    README.md
+    requirements.txt
+    src/
+        agent/
+            agent.py
+            __init__.py
+    venv/

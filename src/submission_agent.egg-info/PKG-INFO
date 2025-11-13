@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: submission_agent
+Version: 0.1.0
+Summary: NinjaHire submission agent
+Author: Your Team
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+submission_agent/
+    pyproject.toml
+    README.md
+    requirements.txt
+    src/
+        agent/
+            agent.py
+            __init__.py
+    venv/
