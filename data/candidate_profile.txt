@@ -1,59 +1,4 @@
-# JOB DESCRIPTION : 
-
-Senior Java Backend Developer
-
-Location: Austin, TX (Hybrid)
-Experience: 8–12 years
-Employment Type: Full-time
-
-About the Role
-
-We are seeking an experienced Senior Java Backend Developer to design, build, and scale enterprise-grade microservices for our cloud-native applications. You will work on transforming legacy systems into modern, distributed architectures and play a hands-on role in end-to-end delivery across the software development lifecycle.
-
-Key Responsibilities
-
-Design, develop, and maintain Java Spring Boot-based backend microservices.
-
-Refactor and migrate monolithic systems to cloud-native microservices.
-
-Build and integrate RESTful APIs for internal and external services.
-
-Work with AWS services (EC2, Lambda, S3, ECS, RDS) for deployment and scalability.
-
-Implement CI/CD pipelines using Jenkins, Docker, and Kubernetes.
-
-Collaborate with DevOps and QA teams to automate deployment and testing.
-
-Participate in system design reviews, code reviews, and performance optimization.
-
-Support enterprise-scale applications across finance, insurance, and healthcare domains.
-
-Required Skills
-
-Core Java (8/11/17), Spring Boot, REST APIs, Hibernate/JPA
-
-Microservices architecture and API gateway design
-
-AWS Cloud, Docker, Kubernetes, Jenkins, CI/CD pipelines
-
-TDD/BDD, JUnit, Mockito, integration testing
-
-Basic familiarity with frontend frameworks (React or Angular)
-
-Strong understanding of scalable, distributed system design
-
-Preferred Background
-
-10+ years in backend Java development
-
-Hands-on migration experience from legacy to microservices
-
-Prior exposure to regulated domains (Banking, Insurance, Healthcare)
-
-MS in Computer Science or equivalent from a reputed university
-
-
-# user profile : 
+## 1##
 
 The candidate is a strong fit for the Java Developer role based on extensive relevant experience, skills, and education. However, the recent role as Tech Lead suggests possible overqualification and lack of rationale for stepping down could risk retention and motivation. Validation is recommended to understand the candidate's motivation for this transition before proceeding.
 Strong Fit
@@ -125,3 +70,8 @@ No other hard disqualifiers noted.
 Certifications
 No certification requirement specified in the job description; category excluded from scoring.
 can you generate me 3 job description based on the above profile details. 1st job description must be 90 percent match to the profile details 2 nd must be 80 percent and 3 rd must be 50 percent
+
+------------------------------------------------------------------------------------------
+
+##2##
+
