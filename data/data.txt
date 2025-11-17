@@ -1,0 +1,127 @@
+# JOB DESCRIPTION : 
+
+Senior Java Backend Developer
+
+Location: Austin, TX (Hybrid)
+Experience: 8–12 years
+Employment Type: Full-time
+
+About the Role
+
+We are seeking an experienced Senior Java Backend Developer to design, build, and scale enterprise-grade microservices for our cloud-native applications. You will work on transforming legacy systems into modern, distributed architectures and play a hands-on role in end-to-end delivery across the software development lifecycle.
+
+Key Responsibilities
+
+Design, develop, and maintain Java Spring Boot-based backend microservices.
+
+Refactor and migrate monolithic systems to cloud-native microservices.
+
+Build and integrate RESTful APIs for internal and external services.
+
+Work with AWS services (EC2, Lambda, S3, ECS, RDS) for deployment and scalability.
+
+Implement CI/CD pipelines using Jenkins, Docker, and Kubernetes.
+
+Collaborate with DevOps and QA teams to automate deployment and testing.
+
+Participate in system design reviews, code reviews, and performance optimization.
+
+Support enterprise-scale applications across finance, insurance, and healthcare domains.
+
+Required Skills
+
+Core Java (8/11/17), Spring Boot, REST APIs, Hibernate/JPA
+
+Microservices architecture and API gateway design
+
+AWS Cloud, Docker, Kubernetes, Jenkins, CI/CD pipelines
+
+TDD/BDD, JUnit, Mockito, integration testing
+
+Basic familiarity with frontend frameworks (React or Angular)
+
+Strong understanding of scalable, distributed system design
+
+Preferred Background
+
+10+ years in backend Java development
+
+Hands-on migration experience from legacy to microservices
+
+Prior exposure to regulated domains (Banking, Insurance, Healthcare)
+
+MS in Computer Science or equivalent from a reputed university
+
+
+# user profile : 
+
+The candidate is a strong fit for the Java Developer role based on extensive relevant experience, skills, and education. However, the recent role as Tech Lead suggests possible overqualification and lack of rationale for stepping down could risk retention and motivation. Validation is recommended to understand the candidate's motivation for this transition before proceeding.
+Strong Fit
+Strengths
+
+10+ years strong Java backend development with proven ability to design and deliver scalable microservices.
+
+Hands-on AWS and cloud-native application development experience.
+
+Experience leading complex migrations and refactoring monolithic legacy systems to microservices.
+
+Solid testing and DevOps background improving software quality and deployment automation.
+
+Educational credentials with MS in Computer Science from reputable university.
+
+Breadth of domain experience including finance, insurance, healthcare, and government sectors.
+Gaps
+
+No explicit rationale given for stepping down from Tech Lead senior role to Java Developer individual contributor, which could impact fit and retention.
+
+Clarify motivation and long-term career goals to validate alignment with Java Developer position.
+
+More detail on preferred industry/domain would assist in precise fit assessment.
+
+Potential concerns about accepting a lower seniority role after recent senior positions.
+Breakdown
+See less
+Experience
+
+Over 10 years of professional experience as Java developer in backend, fullstack and cloud-native microservices.
+
+Relevant experience includes Java, Spring Boot, REST APIs, microservices, AWS, and cloud deployments.
+
+Experience in enterprise applications like banking, insurance, healthcare, government, and fintech domains.
+Skills
+
+Strong Java expertise with Spring Boot, REST APIs, Hibernate, microservices architecture.
+
+DevOps skills including CI/CD, Docker, Kubernetes, Jenkins, AWS cloud.
+
+Testing skills with JUnit, Mockito, TDD, integration testing.
+
+Frontend skills in React.js and Angular complement backend skills.
+IndustryDomain
+
+Experience covers finance/banking, healthcare, government/public sector, and education domains.
+
+Extensive work with enterprise systems, microservices in regulated industries (insurance, banking).
+
+Partial domain overlap depending on exact job domain, but broad relevant industry exposure.
+Education
+
+Candidate holds a Master of Science in Computer Science from Boston University, which fulfills or exceeds typical education requirements for Java Developer roles.
+Location
+Candidate currently based in Austin, TX and willing to relocate to Austin, TX – matches job location requirement.
+JobTitle
+Candidate currently holds the title 'Tech Lead', which is senior to 'Java Developer' role.
+
+Has held 'Senior Java Developer' and 'Java Developer' roles previously.
+
+No explicit rationale provided for stepping down from Tech Lead to Java Developer (possible overqualification deduction).
+Disqualifiers
+
+Potential retention risk due to candidate’s current seniority as Tech Lead compared to Java Developer role.
+
+No explicit rationale provided for downshifting in seniority (no career pivot, relocation reasoning beyond geographic willingness).
+
+No other hard disqualifiers noted.
+Certifications
+No certification requirement specified in the job description; category excluded from scoring.
+can you generate me 3 job description based on the above profile details. 1st job description must be 90 percent match to the profile details 2 nd must be 80 percent and 3 rd must be 50 percent
